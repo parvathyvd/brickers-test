@@ -29,15 +29,15 @@ get_header(); ?>
     <div class="row">
         <div id="tab-container" class="tab-container">
           <ul class='etabs'>
-            <li class='tab'><a href="#tabs1">Local Food</a></li>
-            <li class='tab'><a href="#tabs2">Restaurant Style</a></li>
-            <li class='tab'><a href="#tabs3">Favourite Picks</a></li>
+            <li class='tab'><a href="#tabs1">Tab 1</a></li>
+            <li class='tab'><a href="#tabs2">Tab 2</a></li>
+            <li class='tab'><a href="#tabs3">Tab 3</a></li>
           </ul>
           <div id="tabs1">
               <ul class="list-unstyled d-flex mx-auto">
                 <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/1.jpg" alt="food" class="img-fluid"/></li>
                 <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/2.jpg" alt="food" class="img-fluid"/></li>
-                <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/3.jpg" alt="food" class="img-fluid"/></li>
+                <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/5.jpg" alt="food" class="img-fluid"/></li>
                 <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/4.jpg" alt="food" class="img-fluid"/></li>
             </ul>
           </div>
@@ -45,7 +45,7 @@ get_header(); ?>
             <ul class="list-unstyled d-flex mx-auto">
               <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/4.jpg" alt="food" class="img-fluid"/></li>
               <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/5.jpg" alt="food" class="img-fluid"/></li>
-              <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/6.jpg" alt="food" class="img-fluid"/></li>
+              <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/2.jpg" alt="food" class="img-fluid"/></li>
               <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/7.jpg" alt="food" class="img-fluid"/></li>
           </ul>
           </div>
@@ -53,7 +53,7 @@ get_header(); ?>
             <ul class="list-unstyled d-flex mx-auto">
               <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/7.jpg" alt="food" class="img-fluid"/></li>
               <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/1.jpg" alt="food" class="img-fluid"/></li>
-              <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/3.jpg" alt="food" class="img-fluid"/></li>
+              <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/2.jpg" alt="food" class="img-fluid"/></li>
               <li><img src="<?php bloginfo('stylesheet_directory'); ?>/img/5.jpg" alt="food" class="img-fluid"/></li>
           </ul>
           </div>

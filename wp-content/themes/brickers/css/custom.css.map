@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AASA,IAAI;EACF,WAAW,EAAE,8BAA8B",
+"sources": ["../sass/custom.sass"],
+"names": [],
+"file": "custom.css"
+}
